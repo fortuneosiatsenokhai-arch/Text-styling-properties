@@ -1,0 +1,10 @@
+body{
+    background-color:lightblue;
+    font-family: cursive;
+}
+.introduction{ background-color: blue; padding: 10px; border-radius: 8px;
+}
+.samples {
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 8px; margin-top: 20px;}
